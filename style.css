@@ -1,7 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .flag{
     width: 50px;
 }
 
 article nav li {
     display: inline;
+}
+
+footer{
+    background-color: #000000;
+    padding: 30px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
 }
